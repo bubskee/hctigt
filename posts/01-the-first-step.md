@@ -6,7 +6,7 @@
 
 “It's a dangerous business, Frodo, going out your door. You step onto the road, and if you don't keep your feet, there's no knowing where you might be swept off to.” —Bilbo Baggins, *The Lord of the Rings* (J. R. R. Tolkien)
 
-Hi there! Let's get right to it: we're in a golden age for getting our hands dirty and doing stuff. If you're interested in something, a 7-year-old laptop and an internet connection can get you very far. There are a lot of people (myself included!) who can clear that bar, and I think more of us should be getting our hands dirty with interpretability[^interp]. So I'm learning. You should too!
+Hi there! We're in a golden age for getting hands dirty. A seven-year-old laptop and an internet connection can take you surprisingly far—even in interpretability[^interp].
 
 There are lots of theories floating around about what interp can or won't prove, and while I love a good theory, I think that we should err on the side of *doing experiments*. It's easier than ever to get our hands on models and test our ideas, so why not? We might even find that our theories get better when we have a little empirical ground to stand on! Maybe. If we don't fool ourselves...[^fool]
 
@@ -16,6 +16,7 @@ But fooling ourselves is a topic that others can handle[^lesswrong]; I'm here to
 
 This is a Google Colab notebook. Think of it like a website you can also code in. This one introduces you to the building blocks of messing with transformers. Go click it! I'll be right here when you get back.
 
+---
 ---
 
 That was cool!
@@ -30,7 +31,7 @@ If you enjoyed this, **you're ready.** Seriously. Go ask some questions and run 
 
 **Go deeper!** Try [ARENA](https://www.arena.education/). Read [Neel Nanda's guide to becoming a researcher](https://www.lesswrong.com/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher). Or try [BlueDot's free introduction to AI](https://bluedot.org/courses/future-of-ai)—two hours, no application needed! There's a *lot* more to learn, and you don't have to learn it all before you start doing things.
 
-**Find your people!** There's a whole community of folks doing this stuff. Check out the [MechInterp Discord](https://discord.gg/ysVfhCfCKw), [EleutherAI Discord](https://discord.gg/nHS4YxmfeM), or [Open Source Mech Interp Slack](https://www.neelnanda.io/osmi-slack-invite). Ask questions. Share your experiments. Say hi!
+**Find your people!** There's a whole community of folks doing this stuff. Check out the [MechInterp Discord](https://discord.gg/ysVfhCfCKw), [EleutherAI Discord](https://discord.gg/nHS4YxmfeM), or [Open Source Mech Interp Slack](https://join.slack.com/t/opensourcemechanistic/shared_invite/zt-4dtoxic8w-lJ2rU_ex36eEPm5iR5RDiA). Ask questions. Share your experiments. Say hi!
 
 **And say hello to me, too!** I'm `bubskee` on Discord. I'd love to hear what you tried, especially if you broke something interesting.
 
