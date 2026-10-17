@@ -17,12 +17,11 @@ You know ChatGPT? We're going to train a tiny cousin of it, and see what we lear
   
   But fooling ourselves is a topic that others can handle[^lesswrong]; I'm here to give you a handle on interp.
  
-
 </details>
 
 [Open the Colab notebook](https://colab.research.google.com/github/bubskee/hctigt/blob/main/notebooks/03-make-a-choice.ipynb)
 
-This is a Google Colab notebook. Think of it like a website you can also code in. This one introduces you to GPT2, a little LLM (a LLLM? Little Large Lan... you get it). Go click it! I'll be right here when you get back.
+This is a Google Colab notebook. Think of it like a website you can also code in. This one introduces you to GPT2, a little LLM (a LLLM?[^lllm]). Go click it! I'll be right here when you get back.
 
 ---
 
@@ -50,3 +49,5 @@ Thanks for reading. See you around!
 [^fool]: Richard Feynman, [*Cargo Cult Science*](https://calteches.library.caltech.edu/51/2/CargoCult.htm). Worth reading the whole thing!
 
 [^lesswrong]: [*Making Beliefs Pay Rent (in Anticipated Experiences)*](https://www.lesswrong.com/rationality/making-beliefs-pay-rent-in-anticipated-experiences), from LessWrong's *Rationality: A–Z*.
+
+[^lllm]: A Little Large Language Model. Lil cutie.
