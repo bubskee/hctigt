@@ -4,11 +4,9 @@
 
 *Chris Cassidy steps outside, July 9, 2013. [NASA / Public domain](https://commons.wikimedia.org/wiki/File:ISS-36_EVA-2_h_Chris_Cassidy_leaves_the_Quest_airlock.jpg).*
 
-*Hill Climb Till It's Go Time* is my series about finding my way into interpretability[^1]—and inviting you along.
-
 “It's a dangerous business, Frodo, going out your door. You step onto the road, and if you don't keep your feet, there's no knowing where you might be swept off to.” —Bilbo Baggins, *The Lord of the Rings* (J. R. R. Tolkien)
 
-Hi there! Let's get right to it: we're in a golden age for getting our hands dirty and doing stuff. If you're interested in something, a 7-year-old laptop and an internet connection can get you very far. There are a lot of people (myself included!) who can clear that bar, and I think more of us should be getting our hands dirty with interpretability[^2]. So I'm learning. You should too!
+Hi there! Let's get right to it: we're in a golden age for getting our hands dirty and doing stuff. If you're interested in something, a 7-year-old laptop and an internet connection can get you very far. There are a lot of people (myself included!) who can clear that bar, and I think more of us should be getting our hands dirty with interpretability[^interp]. So I'm learning. You should too!
 
 There are lots of theories floating around about what interp can or won't prove, and while I love a good theory, I think that we should err on the side of *doing experiments*. It's easier than ever to get our hands on models and test our ideas, so why not? We might even find that our theories get better when we have a little empirical ground to stand on! Maybe. If we don't fool ourselves...[^fool]
 
@@ -39,9 +37,7 @@ If you enjoyed this, **you're ready.** Seriously. Go ask some questions and run 
 Thanks for reading. See you around!
 
 
-[^1]: By interpretability, I mean whatever helps us understand what models are doing and why. Mechanistic, behavioral, pragmatic, prosaic—whatever works!
-
-[^2]: interp, from here on. minterp if you're feeling feisty or minty or mechanical.
+[^interp]: By interpretability, I mean whatever helps us understand what models are doing and why. Mechanistic, behavioral, pragmatic, prosaic—whatever works! interp, from here on. minterp if you're feeling feisty or minty or mechanical.
 
 [^fool]: Richard Feynman, [*Cargo Cult Science*](https://calteches.library.caltech.edu/51/2/CargoCult.htm). Worth reading the whole thing!
 
