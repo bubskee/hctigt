@@ -6,17 +6,24 @@
 
 “It's a dangerous business, Frodo, going out your door. You step onto the road, and if you don't keep your feet, there's no knowing where you might be swept off to.” —Bilbo Baggins, *The Lord of the Rings* (J. R. R. Tolkien)
 
-Hi there! We're in a golden age for getting hands dirty. A seven-year-old laptop and an internet connection can take you surprisingly far—even in interpretability[^interp].
+You know ChatGPT? We're going to train a tiny cousin of it, and see what we learn. Get in!
 
-There are lots of theories floating around about what interp can or won't prove, and while I love a good theory, I think that we should err on the side of *doing experiments*. It's easier than ever to get our hands on models and test our ideas, so why not? We might even find that our theories get better when we have a little empirical ground to stand on! Maybe. If we don't fool ourselves...[^fool]
+<details>
+  <summary>Wait, why are we doing this?</summary>
 
-But fooling ourselves is a topic that others can handle[^lesswrong]; I'm here to give you a handle on interp. Here: :hand:
+  We're in a golden age for getting hands dirty. A seven-year-old laptop and an internet connection can take you surprisingly far—even in interpretability[^interp].
+  
+  There are lots of theories floating around about what interp can or won't prove, and while I love a good theory, I think that we should err on the side of *doing experiments*. It's easier than ever to get our hands on models and test our ideas, so why not? We might even find that our theories get better when we have a little empirical ground to stand on! Maybe. If we don't fool ourselves...[^fool]
+  
+  But fooling ourselves is a topic that others can handle[^lesswrong]; I'm here to give you a handle on interp.
+ 
+
+</details>
 
 [Open the Colab notebook](https://colab.research.google.com/github/bubskee/hctigt/blob/main/notebooks/03-make-a-choice.ipynb)
 
-This is a Google Colab notebook. Think of it like a website you can also code in. This one introduces you to the building blocks of messing with transformers. Go click it! I'll be right here when you get back.
+This is a Google Colab notebook. Think of it like a website you can also code in. This one introduces you to GPT2, a little LLM (a LLLM? Little Large Lan... you get it). Go click it! I'll be right here when you get back.
 
----
 ---
 
 That was cool!
