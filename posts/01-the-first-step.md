@@ -27,7 +27,7 @@ This is a Google Colab notebook. Think of it like a website you can also code in
 
 That was cool!
 
-There are a few things hidden in the notebook, by the way. Did you explore the secret doors? Did you see what happened to story prompts when you've trained addition?
+There are a few things hidden in the notebook, by the way. Did you explore the secret doors? Did you see what happened to story prompts after you trained addition?
 
 If you enjoyed this, **you're ready.** Seriously. Go ask some questions and run some experiments to answer them.
 
